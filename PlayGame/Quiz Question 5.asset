@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062075de55a046245af11400a200b2ab, type: 3}
+  m_Name: Quiz Question 5
+  m_EditorClassIdentifier: 
+  question: "T\xEAn th\u1EADt c\u1EE7a Qu\u1ED1c C\xF4ng Ti\u1EBFt Ch\u1EBF H\u01B0ng
+    \u0110\u1EA1o \u0110\u1EA1i V\u01B0\u01A1ng  l\xE0 g\xEC"
+  answers:
+  - "Tr\u1EA7n Quang Kh\u1EA3i"
+  - "Tr\u1EA7n Kh\xE1nh D\u01B0"
+  - "Tr\u1EA7n Nh\u1EADt Du\u1EADt"
+  - "Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n"
+  correctAnswerIndex: 3

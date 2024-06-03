@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062075de55a046245af11400a200b2ab, type: 3}
+  m_Name: Quiz Question 1
+  m_EditorClassIdentifier: 
+  question: "Nguy\u1EC5n Tr\xE3i hi\u1EC7u l\xE0 \u1EE8c Trai, ch\xE0o \u0111\u1EDDi
+    n\u0103m Canh Th\xE2n (1380) t\u1EA1i kinh th\xE0nh Th\u0103ng Long. Cha \xF4ng
+    l\xE0 Nguy\u1EC5n \u1EE8ng Long ng\u01B0\u1EDDi l\xE0ng Chi Ng\u1EA1i, huy\u1EC7n
+    Ph\u01B0\u1EE3ng S\u01A1n (nay thu\u1ED9c huy\u1EC7n Ch\xED Linh, t\u1EC9nh H\u1EA3i
+    D\u01B0\u01A1ng), sau d\u1EDDi v\u1EC1 l\xE0ng Nh\u1ECB Kh\xEA (t\u1EE9c l\xE0ng
+    Ng\u1ECDc \u1ED4i c\u0169), huy\u1EC7n Th\u01B0\u1EE3ng Ph\xFAc, ph\u1EE7 Th\u01B0\u1EDDng
+    T\xEDn, tr\u1EA5n S\u01A1n Nam (nay thu\u1ED9c x\xE3 Nguy\u1EC5n Tr\xE3i, huy\u1EC7n
+    Th\u01B0\u1EDDng T\xEDn, H\xE0 N\u1ED9i). Th\u1EDDi trai tr\u1EBB, Nguy\u1EC5n
+    \u1EE8ng Long n\u1ED5i ti\u1EBFng l\xE0 hay ch\u1EEF nh\u01B0ng v\xEC nh\xE0
+    ngh\xE8o n\xEAn ph\u1EA3i \u0111i l\xE0m gia s\u01B0."
+  answers:
+  - "Nguy\u1EC5n Tr\xE3i \u2013 Ng\u01B0\u1EDDi anh h\xF9ng d\xE2n t\u1ED9c-danh
+    nh\xE2n v\u0103n h\xF3a"
+  correctAnswerIndex: 0

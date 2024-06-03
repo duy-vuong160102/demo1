@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062075de55a046245af11400a200b2ab, type: 3}
+  m_Name: Quiz Question 8
+  m_EditorClassIdentifier: 
+  question: "\u0110\xE2u l\xE0 c\xF4ng danh c\u1EE7a Ho\xE0ng \u0110\u1EBF Quang
+    Trung"
+  answers:
+  - "L\xE3nh \u0111\u1EA1o th\u1EAFng l\u1EE3i hai cu\u1ED9c kh\xE1ng chi\u1EBFn
+    ch\u1ED1ng Xi\xEAm v\xE0 ch\u1ED1ng Thanh"
+  - "Chi\u1EBFn th\u1EAFng tr\xEAn s\xF4ng Nh\u01B0 Nguy\u1EC7t Giang"
+  - "Ng\u01B0\u1EDDi \u0111\xE3 l\xE3nh \u0111\u1EA1o cu\u1ED9c kh\u1EDFi ngh\u0129a
+    Lam S\u01A1n \u0111\xE1nh b\u1EA1i qu\xE2n Minh x\xE2m l\u01B0\u1EE3c, gi\xE0nh
+    l\u1EA1i \u0111\u1ED9c l\u1EADp cho d\xE2n t\u1ED9c"
+  - "C\u1EE7ng c\u1ED1 th\u1EBF \u0111\u1ED9c l\u1EADp t\u1EF1 ch\u1EE7 d\xE2n t\u1ED9c"
+  correctAnswerIndex: 0

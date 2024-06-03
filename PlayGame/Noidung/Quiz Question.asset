@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062075de55a046245af11400a200b2ab, type: 3}
+  m_Name: Quiz Question
+  m_EditorClassIdentifier: 
+  question: "Tr\u1EA7n H\u01B0ng \u0110\u1EA1o t\xEAn th\u1EADt l\xE0 Tr\u1EA7n Qu\u1ED1c
+    Tu\u1EA5n. \xD4ng l\xE0 con trai th\u1EE9 c\u1EE7a An Sinh v\u01B0\u01A1ng Tr\u1EA7n
+    Li\u1EC5u v\xE0 l\xE0 ch\xE1u g\u1ECDi Tr\u1EA7n C\u1EA3nh (t\u1EE9c vua Tr\u1EA7n
+    Th\xE1i T\xF4ng) l\xE0 ch\xFA ru\u1ED9t. S\u1EED s\xE1ch kh\xF4ng ghi l\u1EA1i
+    n\u0103m sinh c\u1EE7a Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n. M\u1ED9t s\u1ED1 s\u1EED
+    gia, sau khi \u0111\u1ED1i chi\u1EBFu nhi\u1EC1u s\xE1ch v\u1EDF, nhi\u1EC1u
+    s\u1EF1 ki\u1EC7n, cho r\u1EB1ng Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n sinh v\xE0o kho\u1EA3ng
+    1229-1230. Nh\u01B0 v\u1EADy, khi \xF4ng ra \u0111\u1EDDi, nh\xE0 Tr\u1EA7n \u0111\xE3
+    n\u1EAFm ng\xF4i b\xE1u \u0111\u01B0\u1EE3c m\u1EA5y n\u0103m.\n\xD4ng n\u1ED9i
+    c\u1EE7a Tr\u1EA7n H\u01B0ng \u0110\u1EA1o l\xE0 Tr\u1EA7n Th\u1EEBa. Cu\u1ED1i
+    th\u1EDDi L\xFD, nh\u1EDD c\xF4ng ph\xF2 gi\xFAp l\xFAc n\u1ED9i bi\u1EBFn, t\u1EEB
+    m\u1ED9t gia \u0111\xECnh \u0111\u1EDDi \u0111\u1EDDi l\xE0m ngh\u1EC1 \u0111\xE1nh
+    c\xE1 \u1EDF T\u1EE9c M\u1EB7c (Nam \u0110\u1ECBnh), Tr\u1EA7n Th\u1EEBa tr\u1EDF
+    th\xE0nh quan N\u1ED9i th\u1ECB Ph\xE1n th\u1EE7. Khi Tr\u1EA7n C\u1EA3nh l\xEAn
+    l\xE0m vua, Tr\u1EA7n Th\u1EEBa \u0111\u01B0\u1EE3c t\xF4n l\xE0 Th\xE1i T\u1ED5
+    m\u1EB7c d\xF9 ch\u01B0a l\xE0m vua ng\xE0y n\xE0o. Trong s\u1ED1 6 ng\u01B0\u1EDDi
+    con(*) c\u1EE7a Th\xE1i T\u1ED5 Tr\u1EA7n Th\u1EEBa, th\xEC Tr\u1EA7n Li\u1EC5u
+    l\xE0 con tr\u01B0\u1EDFng. Nh\u01B0 v\u1EADy, v\u1EC1 th\u1EBF th\u1EE9, Tr\u1EA7n
+    Qu\u1ED1c Tu\u1EA5n thu\u1ED9c d\xF2ng tr\u01B0\u1EDFng trong ho\xE0ng t\u1ED9c
+    nh\xE0 Tr\u1EA7n.\r\n\r\nN\u0103m Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n kho\u1EA3ng 5-6
+    tu\u1ED5i, ho\xE0ng t\u1ED9c nh\xE0 Tr\u1EA7n x\u1EA3y ra bi\u1EBFn c\u1ED1 l\u1EDBn.
+    Do b\u1ECB Th\xE1i s\u01B0 Tr\u1EA7n Th\u1EE7 \u0110\u1ED9 bu\u1ED9c ph\u1EA3i
+    nh\u01B0\u1EDDng v\u1EE3 l\xE0 c\xF4ng ch\xFAa Thu\u1EADn Thi\xEAn \u0111ang
+    c\xF3 mang ba th\xE1ng cho em trai l\xE0 vua Tr\u1EA7n Th\xE1i T\xF4ng(*), cha
+    Qu\u1ED1c Tu\u1EA5n l\xE0 Tr\u1EA7n Li\u1EC5u l\xE0m lo\u1EA1n ch\u1ED1ng l\u1EA1i
+    vua v\xE0 tri\u1EC1u \u0111\xECnh. D\xF9 anh em \u0111\xE3 h\xF2a gi\u1EA3i,
+    nh\u01B0ng t\u1EEB \u0111\xF3, gi\u1EEFa hai gia \u0111\xECnh c\xF3 s\u1EF1 r\u1EA1n
+    n\u1EE9t s\xE2u s\u1EAFc kh\xF3 h\xE0n g\u1EAFn \u0111\u01B0\u1EE3c.\r\n\r\nQu\u1ED1c
+    Tu\u1EA5n \u0111\u01B0\u1EE3c c\xF4 ru\u1ED9t l\xE0 Th\u1EE5y B\xE0 c\xF4ng ch\xFAa
+    nh\u1EADn l\xE0m con nu\xF4i. Tuy c\xF2n nh\u1ECF, nh\u01B0ng Qu\u1ED1c Tu\u1EA5n
+    \u0111\xE3 t\u1ECF ra th\xF4ng minh nhanh l\u1EB9. Th\u1EA5y con s\xE1ng d\u1EA1,
+    Tr\u1EA7n Li\u1EC5u kh\xF4ng ti\u1EBFc ti\u1EC1n c\u1EE7a c\xF4ng s\u1EE9c, m\u1EDDi
+    th\u1EA7y gi\xE1o c\xF3 ti\u1EBFng t\u0103m kh\u1EAFp n\u01A1i v\u1EC1 d\u1EA1y
+    d\u1ED7 v\u1EDBi mong mu\u1ED1n Qu\u1ED1c Tu\u1EA5n tr\u1EDF th\xE0nh ng\u01B0\u1EDDi
+    t\xE0i gi\u1ECFi \u0111\u1EC3 gi\xFAp \xF4ng r\u1EEDa h\u1EADn x\u01B0a.\r\n\r\nTr\u1EA7n
+    Qu\u1ED1c Tu\u1EA5n h\u1ECDc m\u1ED9t bi\u1EBFt m\u01B0\u1EDDi, c\xF3 n\u0103ng
+    khi\u1EBFu c\u1EA3 v\u1EC1 v\u0103n ch\u01B0\u01A1ng l\u1EABn v\xF5 ngh\u1EC7,
+    7 tu\u1ED5i \u0111\xE3 bi\u1EBFt l\xE0m th\u01A1, l\u1EDBn l\xEAn c\u01B0\u1EE1i
+    ng\u1EF1a b\u1EAFn cung \u0111\u1EC1u gi\u1ECFi. V\u1EDBi t\xE0i thao l\u01B0\u1EE3c,
+    \xF4ng ch\xFA t\xE2m nghi\xEAn c\u1EE9u binh ph\xE1p c\u1EE7a ng\u01B0\u1EDDi
+    x\u01B0a, nghi\xEAn c\u1EE9u nh\u1EEFng tr\u1EADn \u0111\xE1nh n\u1ED5i ti\u1EBFng
+    c\u1EE7a nh\u1EEFng anh h\xF9ng d\xE2n t\u1ED9c m\xE0 s\u1EED s\xE1ch \u0111\xE3
+    l\u01B0u truy\u1EC1n, r\xFAt ra c\xE1i hay\r\nc\xE1i d\u1EDF v\xE0 t\u1EF1 ph\xF4
+    di\u1EC5n tr\u1EADn \u0111\u1ED3 r\u1EA5t linh ho\u1EA1t. N\u0103m 21 tu\u1ED5i,
+    Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n n\xEAn duy\xEAn v\u1EDBi c\xF4ng ch\xFAa Thi\xEAn
+    Th\xE0nh(*) v\xE0 sinh h\u1EA1 t\u1EA5t c\u1EA3 5 ng\u01B0\u1EDDi con, 1 g\xE1i
+    4 trai(**). C\xE1c con c\u1EE7a \xF4ng sau n\xE0y \u0111\u1EC1u l\xE0 ng\u01B0\u1EDDi
+    th\xE0nh \u0111\u1EA1t. Ng\u01B0\u1EDDi con g\xE1i c\u1EA3 l\xE0 Trinh c\xF4ng
+    ch\xFAa, sau l\xE0 ho\xE0ng h\u1EADu c\u1EE7a vua Nh\xE2n T\xF4ng, v\u1ECB vua
+    s\xE1t c\xE1nh c\xF9ng Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n trong hai cu\u1ED9c kh\xE1ng
+    chi\u1EBFn ch\u1ED1ng qu\xE2n Nguy\xEAn. Con trai b\xE0 ch\xEDnh l\xE0 Th\xE1i
+    t\u1EED Tr\u1EA7n Thuy\xEAn, t\u1EE9c vua Tr\u1EA7n Anh T\xF4ng\r\n\r\nB\u1ED1n
+    ng\u01B0\u1EDDi con trai c\u1EE7a Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n l\xE0 H\u01B0ng
+    V\u0169 v\u01B0\u01A1ng Tr\u1EA7n Qu\u1ED1c Hi\u1EC3n, H\u01B0ng Tr\xED v\u01B0\u01A1ng
+    Tr\u1EA7n Qu\u1ED1c Nghi\u1EC5n, H\u01B0ng Nh\u01B0\u1EE3ng v\u01B0\u01A1ng Tr\u1EA7n
+    Qu\u1ED1c T\u1EA3ng, H\u01B0ng Hi\u1EBFn v\u01B0\u01A1ng Tr\u1EA7n Qu\u1ED1c
+    Uy \u0111\u1EC1u l\xE0 nh\u1EEFng v\xF5 t\u01B0\u1EDBng c\xF3 t\xE0i, \u0111\xE3
+    gi\xFAp \xF4ng r\u1EA5t nhi\u1EC1u trong\r\nc\xF4ng cu\u1ED9c \u0111\xE1nh Nguy\xEAn.
+    Tr\u1EA7n Qu\u1ED1c Hi\u1EC3n sau n\xE0y l\xE0 ph\xF2 m\xE3 c\u1EE7a vua Th\xE1nh\r\nT\xF4ng,
+    c\xF2n Tr\u1EA7n Qu\u1ED1c T\u1EA3ng c\xF3 con g\xE1i l\xE0 ho\xE0ng h\u1EADu
+    c\u1EE7a vua Anh T\xF4ng. Ri\xEAng Tr\u1EA7n Qu\u1ED1c Nghi\u1EC5n c\xF2n c\xF3
+    c\xF4ng kh\u1EA9n hoang, bi\u1EBFn v\xF9ng \u0111\u1EA5t hoang vu \u1EDF H\u1EA3i
+    D\u01B0\u01A1ng th\xE0nh nh\u1EEFng c\xE1nh \u0111\u1ED3ng ph\xEC nhi\xEAu, xanh
+    t\u1ED1t.\r\n\r\nN\u0103m 1251, Tr\u1EA7n Li\u1EC5u, cha c\u1EE7a Qu\u1ED1c Tu\u1EA5n
+    l\xE2m b\u1EC7nh n\u1EB7ng. Tr\u01B0\u1EDBc khi qua \u0111\u1EDDi, Tr\u1EA7n
+    Li\u1EC5u c\u1EA7m tay Qu\u1ED1c Tu\u1EA5n tr\u0103ng tr\u1ED1i: \u2013 Con h\xE3y
+    v\xEC cha m\xE0 l\u1EA5y thi\xEAn h\u1EA1 (\xFD n\xF3i c\u01B0\u1EDBp ng\xF4i
+    vua) n\u1EBFu kh\xF4ng cha n\u1EB1m d\u01B0\u1EDBi \u0111\u1EA5t c\u0169ng kh\xF4ng
+    sao nh\u1EAFm m\u1EAFt \u0111\u01B0\u1EE3c."
+  answers:
+  - "H\u01B0ng \u0110\u1EA1o V\u01B0\u01A1ng Tr\u1EA7n Qu\u1ED1c Tu\u1EA5n-V\u1ECB
+    t\u01B0\u1EDBng ki\u1EC7t xu\u1EA5t c\u1EE7a Tri\u1EC1u Tr\u1EA7n"
+  correctAnswerIndex: 0
